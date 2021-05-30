@@ -1,7 +1,7 @@
 const DiscordJS = require('discord.js');
 const WOKCommands = require('wokcommands');
 const Chalk = require('chalk');
-const box = require('./ready/ready');
+const box = require('./features/start-up-log');
 const { getMongoConnection } = require('wokcommands/dist/mongo');
 const { Connection } = require('mongoose');
 const { Model } = require('mongoose');

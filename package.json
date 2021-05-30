@@ -1,15 +1,14 @@
 {
-  "name": "mr.shrimp",
+  "name": "mr-shrimp",
+  "private": true,
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon ./src/index.js",
     "start": "node ./src/index.js",
     "test": "node ./src/index.js"
   },
-  "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.1",
     "discord-buttons": "^2.4.1",

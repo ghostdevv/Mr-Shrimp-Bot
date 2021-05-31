@@ -1,30 +1,50 @@
 # Mr Shrimp
 <p align="center">
-  <a href="">
+  <a>
     <img src="https://cdn.discordapp.com/attachments/848686917532254218/848718688617496646/mr-shrimp-icon.png" height="300px">
   </a>
 </p>
 
 &nbsp;
-[![GitHub Stars](https://img.shields.io/github/stars/cainthebest/mr-shrimp.svg)](https://github.com/cainthebest/Mr-Shrimp/stargazers)
-[![GitHub Issues](https://img.shields.io/github/issues/cainthebest/mr-shrimp.svg)](https://github.com/cainthebwst/mr-shrimp/issues)
-[![Current Version](https://img.shields.io/badge/version-ALPHA-yellow.svg)](https://github.com/IgorAntun/node-chat)
+[![GitHub Stars](https://img.shields.io/github/stars/cainthebest/mr-shrimp?style=social)](https://github.com/cainthebest/mr-shrimp/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/cainthebest/mr-shrimp.svg)](https://github.com/cainthebest/mr-shrimp/issues)
+![Updated Badge](https://badges.pufler.dev/updated/cainthebest/mr-shrimp)
+[![Current Version](https://img.shields.io/badge/version-ALPHA-yellow.svg)](https://github.com/cainthebest/mr-shrimp)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-![first-timers-only Friendly](https://img.shields.io/badge/first--timers-friendly-green.svg)
+[![prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
 
 This Discord Bot is currently in ALPHA, feel free to help the project along via issues or pull requests!
 
+You can also come join the discord or discuss Mr Shrimp [here](https://github.com/cainthebest/Mr-Shrimp/discussions)
+
+![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+
 ---
 
-## Contributing
-Please read the contributing guide before making contributions (coming soon)
+## 💖 Support Mr Shrimp 
+By supporting Mr Shrimp via patreon you help us by keeping him alive!
+
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/mr_shrimp)
+
+>There will be benifits of supporting coming soon.
+
+
+
+---
+## ✨ Contributers
+Here are the peaple that make Mr Shrimp possible and keep his code working!
+
+![Contributors Display](https://badges.pufler.dev/contributors/cainthebest/mr-shrimp?size=50&padding=5&bots=false)
+##  How to contribute?
+~~Please read the contributing guide before making contributions~~ (coming soon)
 
 ---
 
 ## License
+This project is licensed under the terms of the **GNU General Public License v3.0**.
 >You can check out the full license [here](https://github.com/cainthebest/Mr-Shrimp/blob/main/LICENSE)
-
-This project is licensed under the terms of the **GNU General Public License v3.0.**

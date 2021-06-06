@@ -37,7 +37,7 @@ By supporting Mr Shrimp via patreon you help us by keeping him alive!
 
 ---
 ## ✨ Contributers
-Here are the peaple that make Mr Shrimp possible and keep his code working!
+Here are the people that make Mr Shrimp possible and keep his code working!
 
 ![Contributors Display](https://badges.pufler.dev/contributors/Mr-Shrimp/Mr-Shrimp-Bot?size=50&padding=5&bots=false)
 ##  How to contribute?

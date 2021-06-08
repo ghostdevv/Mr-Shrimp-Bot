@@ -30,14 +30,6 @@ function log(
     if (end) console.log(`╚${'═'.repeat(size)}╝`);
 }
 
-/**
- *
- * @param {string} text The text
- * @param {number} size Size of the text
- * @param {boolean} start If it starts or not
- * @returns {void}
- */
-
 function helper(text, size = 68, start = false) {
     text = ` ( ${text} ) `;
     if (start)
@@ -53,13 +45,6 @@ function helper(text, size = 68, start = false) {
                 .padEnd(size, '═')}╣`,
         );
 }
-
-/**
- *
- * @param {string} text the text to resume
- * @param {number} number the max size
- * @returns {string} text resumed
- */
 
 function resume(text, number) {
     let str = '';

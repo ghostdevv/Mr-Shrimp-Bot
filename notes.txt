@@ -1,0 +1,48 @@
+<----------------------------------------------------------------------------------->
+
+        This is a notes file for all things relevant with the code.
+                  Feel free to add and edit or tidy up!
+
+<----------------------------------------------------------------------------------->
+
+dependencies:
+    chalk
+    discord-buttons
+    discord.js
+    dotenv
+    mongoose
+    nodeactyl
+    wokcommands
+  
+devDependencies:
+    nodemon
+
+commands:
+    1. Moderation ( TODO )
+
+    2. General ( TODO )
+        Note: Make a new help menu that supports the messages.json and add new langs to message.json
+
+    3. Economy ( TODO )
+        Note: Make some type of currency with the theme of fish eg squid.
+
+    4. Fun ( TODO )
+
+    5. Music ( TODO )
+        Note: Look into music player for bot that supports spotify, soundcloud and youtube.
+
+    6. Util ( TODO )
+
+    7. Misc ( TODO )
+        1. Invite ( Does what it says on the tin )
+        2. Partners ( Show the partners with there invite links. So far only partners with jellyfish )
+
+        Note: Create other options that are not related to other command sets
+
+    8. Premium ( TODO )
+
+    9. Owner only
+        1. Restart ( Process.exit and sens a message that its restarting )
+        
+        Note: Create other commands can can shorten the time of a quick fix or troubleshooting. 
+

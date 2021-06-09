@@ -1,14 +1,14 @@
 {
   "name": "mr-shrimp",
   "private": true,
-  "version": "1.0.0",
+  "version": "0.1.0",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon ./src/index.js",
     "start": "node ./src/index.js",
     "test": "node ./src/index.js"
   },
-  "license": "MIT",
+  "license": "GPL-3.0",
   "dependencies": {
     "chalk": "^4.1.1",
     "discord-buttons": "^3.1.1",
@@ -20,5 +20,15 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
-  }
+  },
+  "description": "This Discord Bot is currently in ALPHA, feel free to help the project along via issues or pull requests!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mr-Shrimp/Mr-Shrimp-Bot.git"
+  },
+  "author": "cainthebest",
+  "bugs": {
+    "url": "https://github.com/Mr-Shrimp/Mr-Shrimp-Bot/issues"
+  },
+  "homepage": "https://github.com/Mr-Shrimp/Mr-Shrimp-Bot#readme"
 }

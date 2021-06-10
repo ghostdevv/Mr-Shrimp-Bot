@@ -5,10 +5,11 @@ module.exports = {
     category: '',
     description: 'Allows the bot owner to restart',
     minArgs: 0,
-    ownerOnly: true,
+    ownerOnly: false,
     callback: async ({ message, client }) => {
         const member = message.mentions.members.first() || message.member;
-        let text = '```\n' + `${message.author.username}'s permissions` + '\n\n';
+        let text =
+            '```\n' + `${message.author.username}'s permissions` + '\n\n';
         const mPermissions = message.channel.permissionsFor(member);
         const total = {
             denied: 0,

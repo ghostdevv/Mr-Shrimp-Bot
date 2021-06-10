@@ -1,4 +1,4 @@
-function log(
+function box(
     data,
     size = 68,
     options = { start: true, end: true, justValue: false },
@@ -14,7 +14,7 @@ function log(
         return;
     }
     if (start) {
-        helper(data[0].name, size, true);
+        title(data[0].name, size, true);
         data[0].value.forEach((val) => {
             console.log(`║${(' > ' + resume(val, size)).padEnd(size)}║`);
         });
@@ -22,7 +22,7 @@ function log(
     }
 
     for (const text of data) {
-        helper(text.name, size);
+        title(text.name, size);
         text.value.forEach((val) => {
             console.log(`║${(' > ' + resume(val, size)).padEnd(size)}║`);
         });
@@ -30,7 +30,7 @@ function log(
     if (end) console.log(`╚${'═'.repeat(size)}╝`);
 }
 
-function helper(text, size = 68, start = false) {
+function title(text, size = 68, start = false) {
     text = ` ( ${text} ) `;
     if (start)
         console.log(
@@ -58,4 +58,4 @@ function resume(text, number) {
     }
 }
 
-module.exports = { log, helper };
+module.exports = { box, title };

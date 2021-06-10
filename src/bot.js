@@ -1,7 +1,7 @@
 const DiscordJS = require('discord.js');
 const WOKCommands = require('wokcommands');
 const Chalk = require('chalk');
-const box = require('./features/start-up-log');
+const startUpLog = require('./features/start-up-log');
 const { getMongoConnection } = require('wokcommands/dist/mongo');
 const { Connection } = require('mongoose');
 const { Model } = require('mongoose');
@@ -23,7 +23,7 @@ client.on('ready', () => {
     const wok = new WOKCommands(client, {
         commandsDir: 'commands',
         messagesPath: 'messages.json',
-        showWarns: true,
+        showWarns: false,
         testServers: ['843592912315220008', '843936038551289866'],
     })
         // Bot owner cainthebest#6969
@@ -59,7 +59,7 @@ client.on('ready', () => {
             reqRoleResults,
         ] = documentCounts;
 
-        box.log(
+        if (client.shard.ids[0] === 0) startUpLog.box(
             [
                 {
                     name: 'Status',

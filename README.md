@@ -15,13 +15,13 @@
 
 [![GitHub Stars](https://img.shields.io/github/stars/Mr-Shrimp/Mr-Shrimp-Bot?style=social)](https://github.com/Mr-Shrimp/Mr-Shrimp-Bot/stargazers)
 [![GitHub Issues](https://img.shields.io/github/issues/Mr-Shrimp/Mr-Shrimp-Bot.svg)](https://github.com/Mr-Shrimp/Mr-Shrimp-Bot/issues)
-![Updated Badge](https://badges.pufler.dev/updated/Mr-Shrimp/Mr-Shrimp-Bot)
+[![Updated Badge](https://badges.pufler.dev/updated/Mr-Shrimp/Mr-Shrimp-Bot)](https://github.com/Mr-Shrimp/Mr-Shrimp-Bot/commits/ts-rewrite-with-jelly)
 [![Current Version](https://img.shields.io/badge/version-PRE_ALPHA-red.svg)](https://github.com/Mr-Shrimp/Mr-Shrimp-Bot)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 [![JellyCommands](https://img.shields.io/badge/Powered%20by%20-Jelly%20Commands-ff69b4?style=for-the-badge&labelColor=white)](https://github.com/ghostdevv/jellycommands)
 
 

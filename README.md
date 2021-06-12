@@ -1,4 +1,9 @@
+<div align="center">
+
 # Mr Shrimp
+
+</div>
+
 <p align="center">
   <a>
     <img src="https://cdn.discordapp.com/attachments/848686917532254218/848718688617496646/mr-shrimp-icon.png" height="300px">
@@ -6,6 +11,8 @@
 </p>
 
 &nbsp;
+<div align="center">
+
 [![GitHub Stars](https://img.shields.io/github/stars/Mr-Shrimp/Mr-Shrimp-Bot?style=social)](https://github.com/Mr-Shrimp/Mr-Shrimp-Bot/stargazers)
 [![GitHub Issues](https://img.shields.io/github/issues/Mr-Shrimp/Mr-Shrimp-Bot.svg)](https://github.com/Mr-Shrimp/Mr-Shrimp-Bot/issues)
 ![Updated Badge](https://badges.pufler.dev/updated/Mr-Shrimp/Mr-Shrimp-Bot)
@@ -16,6 +23,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 [![JellyCommands](https://img.shields.io/badge/Powered%20by%20-Jelly%20Commands-ff69b4?style=for-the-badge&labelColor=white)](https://github.com/ghostdevv/jellycommands)
+
 
 ---
 
@@ -49,3 +57,5 @@ Here are the people that make Mr Shrimp possible and keep his code working!
 ## License
 This project is licensed under the terms of the **GNU General Public License v3.0**.
 >You can check out the full license [here](https://github.com/Mr-Shrimp/Mr-Shrimp-Bot/blob/main/LICENSE)
+
+</div>
